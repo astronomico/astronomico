@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+@scalybur contributions
+this empty base file is an example of my first profile readme.md hahaha lol github lol
