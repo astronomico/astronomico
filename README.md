@@ -16,6 +16,8 @@ links
     package tracker
     raw man page
 
+
+
 table of contents
 other versions
 
@@ -48,6 +50,11 @@ git - the stupid content tracker
   The layer is identical 
 
 /////////////////
+
+Send money
+    nahuelcabrera.com
+    0000-0000-0000
+
 
 Original account: @scalybur
 
