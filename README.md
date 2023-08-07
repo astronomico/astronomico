@@ -60,4 +60,3 @@ Send money
 Original account: @scalybur
 
 Reserved space
-
