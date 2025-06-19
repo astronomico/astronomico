@@ -37,5 +37,9 @@ nahuelcabrera.com
 🕳️ Reserved for Eldritch Metadata
 nohighlight
 
+[Memoria crítica no encontrada]  
+[Error: Paradigma insuficiente]  
+[¿Buscar en otra capa de la red? Y/N]  
+
 Original account: @scalybur
 Reserved space for: [DATA EXPUNGED]
